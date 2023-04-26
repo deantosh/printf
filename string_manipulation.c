@@ -5,6 +5,7 @@
 
 #include "main.h"
 #include <stdio.h>
+#include <string.h>
 
 /**
  * print_reversed - Calls a function to reverse and print a string
